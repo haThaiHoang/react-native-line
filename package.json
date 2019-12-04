@@ -1,14 +1,15 @@
 {
-  "name": "react-native-line-sdk",
-  "version": "1.3.0",
-  "description": "react native line",
+  "name": "react-native-line-sdk-ex",
+  "version": "1.0.0",
+  "description": "react native line ex",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmartlabs/react-native-line.git"
+    "url": "git+https://github.com/roy8119425/react-native-line"
   },
   "keywords": [
     "LINE",
@@ -20,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/xmartlabs/react-native-line/issues"
   },
-  "homepage": "https://github.com/xmartlabs/react-native-line#readme"
+  "homepage": "https://github.com/roy8119425/react-native-line#readme"
 }
